@@ -1,5 +1,5 @@
-# tudo-app
-## just another tudo app
+# todo-app
+## just another todo app
 
 ## Project setup
 ```
